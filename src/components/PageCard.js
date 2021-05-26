@@ -14,7 +14,7 @@ function PageCard(props) {
           {project.url && <a href={project.url} target="_blank" rel="noreferrer" className="card-link cardlinks">live</a>}
         </div>
       </div>
-      ))}
+        ))}
     </div>
   );
 }
