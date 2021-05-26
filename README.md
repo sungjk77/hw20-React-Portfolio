@@ -2,7 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ------------
 ## Description:
-Found live at: https://github.com/sungjk77/hw20-react-portfolio
+Found live at: https://pacific-eyrie-32553.herokuapp.com/
+
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 Table of Contents
