@@ -11,7 +11,7 @@ Table of Contents
 - [License](##📋License)
 - [Contributing](##📝Contributing)
 - [Tests](##✔️Tests)
-
+- [Screenshot](##📸Screenshot)
 
 ------------
 ## 🛠️Installation
@@ -44,3 +44,7 @@ sungjk@uw.edu
 To test the program, please run the following:
 
 npm run test
+
+## 📸Screenshot
+![alt text](https://raw.githubusercontent.com/sungjk77/hw20-react-portfolio/master/screenshot.JPG)
+
