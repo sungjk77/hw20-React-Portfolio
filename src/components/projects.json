@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "title": "CSS Snippet",
+        "image": "assets/images/imgSnippet.JPG",
+        "url": "https://sungjk77.github.io/CSS-Snippet/",
+        "github": ""
+    },
+    {
+        "id":2,
+        "title": "Horiseon",
+        "image": "assets/images/imgHoriseon.JPG",
+        "url": "https://sungjk77.github.io/01.-Code-Refactor/",
+        "github": ""
+    },
+    {
+        "id":3,
+        "title": "Code Quiz",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw04-Web-APIs-Code-Quiz/main/assets/images/screenshot.JPG",
+        "url": "https://sungjk77.github.io/hw04-Web-APIs-Code-Quiz/",
+        "github": "https://github.com/sungjk77/hw04-Web-APIs-Code-Quiz"
+    },
+    {
+        "id":4,
+        "title": "Quarantine and Chill",
+        "image": "assets/images/imgPrework.JPG",
+        "url": "https://lbalbrecht.github.io/lst-night-planner/",
+        "github": "https://github.com/lbalbrecht/lst-night-planner"
+    },
+    {
+        "id":5,
+        "title": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw06---Server-Side-APIs-Weather-Dashboard/main/assets/images/screenshot.JPG",
+        "url": "https://sungjk77.github.io/hw06---Server-Side-APIs-Weather-Dashboard/",
+        "github": "https://github.com/sungjk77/hw06---Server-Side-APIs-Weather-Dashboard"
+    },
+    {
+        "id":6,
+        "title": "Work Day Scheduler",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw05-Third-Party-APIs-Work-Day-Scheduler/main/assets/images/screenshot.JPG",
+        "url": "https://sungjk77.github.io/hw05-Third-Party-APIs-Work-Day-Scheduler/",
+        "github": "https://github.com/sungjk77/hw05-Third-Party-APIs-Work-Day-Scheduler"
+    },
+    {
+        "id":7,
+        "title": "Team Profile Generator",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw10-Team-Profile-Generator/master/dist/screenshot.JPG",
+        "url": "https://github.com/sungjk77/hw10-Team-Profile-Generator",
+        "github": "https://github.com/sungjk77/hw10-Team-Profile-Generator"
+    },
+    {
+        "id":8,
+        "title": "Note Taker",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw11-Note-Taker/master/Assets/screenshot.JPG",
+        "url": "https://whispering-anchorage-66315.herokuapp.com/",
+        "github": "https://github.com/sungjk77/hw11-Note-Taker/tree/master/Develop"
+    },
+    {
+        "id":9,
+        "title": "E-Commerce Backend",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw13-E-Commerce-Back-End/main/Develop/assets/screenshot.JPG",
+        "url": "https://github.com/sungjk77/hw13-E-Commerce-Back-End",
+        "github": "https://github.com/sungjk77/hw13-E-Commerce-Back-End"
+    },
+    {
+        "id":10,
+        "title": "Tech Blog",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw14-MVC-Tech-Blog/main/assets/screenshot.JPG",
+        "url": "https://whispering-anchorage-66315.herokuapp.com/",
+        "github": "https://github.com/sungjk77/hw14-MVC-Tech-Blog"
+    },
+    {
+        "id":11,
+        "title": "Pantrimonium",
+        "image": "https://raw.githubusercontent.com/comatosino/Pantrimonium/develop/images/userFridge.png",
+        "url": "https://pantrimonium.herokuapp.com/",
+        "github": "https://github.com/sungjk77/Pantrimonium"
+    },
+    {
+        "id":12,
+        "title": "Fitness Tracker",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw17-Workout-Tracker/master/assets/images/screenshot.JPG",
+        "url": "https://obscure-earth-47598.herokuapp.com",
+        "github": "https://github.com/sungjk77/hw17-Workout-Tracker"
+    },
+    {
+        "id":13,
+        "title": "Employee Tracker",
+        "image": "https://raw.githubusercontent.com/sungjk77/hw19-employee-directory/master/screenshot.JPG",
+        "url": "https://infinite-cove-41579.herokuapp.com/",
+        "github": "https://github.com/sungjk77/hw19-employee-directory"
+    }
+]
